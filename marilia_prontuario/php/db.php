@@ -1,7 +1,7 @@
 <?php
 // Define as variáveis de conexão ao banco de dados MySQL
 $host = 'localhost:3306'; // Endereço do servidor MySQL e a porta utilizada
-$db = 'sistema_clinica';  // Nome do banco de dados atualizado
+$db = 'sistema_prontuario';  // Nome do banco de dados atualizado
 $user = 'root';           // Usuário do banco de dados
 $pass = 'root123';           // Senha do usuário do banco de dados
 

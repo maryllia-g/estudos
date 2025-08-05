@@ -1,6 +1,6 @@
-CREATE DATABASE sistema_clinica;
+CREATE DATABASE sistema_prontuario;
 
-USE sistema_clinica;
+USE sistema_prontuario;
 
 -- Tabela de usuários (opcional para login)
 CREATE TABLE usuarios (
