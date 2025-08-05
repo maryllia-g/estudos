@@ -28,12 +28,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Login - Sistema Clínica</title>
+    <title>Login - Sistema de Saúde</title>
     <link rel="stylesheet" href="../css/style.css" />
 </head>
 <body>
 <header>
-    <h1>Bem-vindo ao Sistema Clínica</h1>
+    <h1>Bem-vindo ao Sistema de Saúde</h1>
     <nav>
         <ul>
             <li><a href="/index.php">Home</a>|</li>

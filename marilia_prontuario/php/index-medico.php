@@ -17,7 +17,7 @@ $medicos = $stmt->fetchAll(PDO::FETCH_ASSOC);
 </head>
 <body>
     <header>
-        <h1>Lista de Médicos</h1>
+        <h1>Bem-vindo ao Sistema de Gerenciamento de Médicos</h1>
         <nav>
             <ul>
                 <li><a href="/index.php">Home</a></li>

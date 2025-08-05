@@ -6,12 +6,12 @@ session_start();
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Sistema Clínico</title>
+    <title>Sistema Saúde</title>
     <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
 <header>
-    <h1>Sistema Clínico</h1>
+    <h1>Sistema de Saúde</h1>
     <nav>
         <ul>
             <li><a href="index.php">Home</a>|</li> 
@@ -38,12 +38,12 @@ session_start();
 </header>
 
 <main>
-    <h2>Bem-vindo ao Sistema Clínico</h2>
+    <h2>Bem-vindo ao Sistema de Saúde</h2>
     <p>Utilize o menu acima para navegar pelo sistema.</p>
 </main>
 
 <footer>
-    <p>&copy; 2025 - Sistema de Gerenciamento Clínico</p>
+    <p>&copy; 2025 - Sistema de Gerenciamento de Saúde</p>
 </footer>
 </body>
 </html>

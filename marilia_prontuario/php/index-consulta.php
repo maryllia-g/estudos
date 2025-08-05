@@ -24,7 +24,7 @@ $consultas = $stmt->fetchAll(PDO::FETCH_ASSOC);
 </head>
 <body>
 <header>
-    <h1>Lista de Consultas</h1>
+    <h1>Bem-vindo ao Sistema de Gerenciamento de Consultas</h1>
     <nav>
         <ul>
             <li><a href="/index.php">Home</a></li>
