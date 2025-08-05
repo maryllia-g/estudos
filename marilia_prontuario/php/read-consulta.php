@@ -31,12 +31,12 @@ if (!$consulta) {
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Detalhes da Consulta</title>
+    <title>Partes da Consulta</title>
     <link rel="stylesheet" href="../css/style.css" />
 </head>
 <body>
 <header>
-    <h1>Detalhes da Consulta</h1>
+    <h1>Partes da Consulta</h1>
     <nav>
         <ul>
             <li><a href="/index.php">Home</a></li>

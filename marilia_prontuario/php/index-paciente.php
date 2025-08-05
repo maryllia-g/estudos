@@ -71,8 +71,5 @@ $pacientes = $stmt->fetchAll(PDO::FETCH_ASSOC);
             </tbody>
         </table>
     </main>
-    <footer>
-        <p>&copy; 2024 - Sistema de Gerenciamento de Pacientes</p>
-    </footer>
 </body>
 </html>

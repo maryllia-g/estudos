@@ -39,7 +39,7 @@ session_start();
 
 <main>
     <h2>Bem-vindo ao Sistema de Saúde</h2>
-    <p>Utilize o menu acima para navegar pelo sistema.</p>
+    <p>Utilize o sistema para gerenciar os usuário</p>
 </main>
 
 <footer>

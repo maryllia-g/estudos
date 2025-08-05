@@ -5,15 +5,15 @@
     box-sizing: border-box;
 }
 
-/* Layout geral */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f7f9;
+    background: linear-gradient(to right, #e0f7fa, #07a114); /* azul claro para azul médio */
     color: #333;
     padding: 20px;
 }
 
-/* Container principal */
+
+
 .container {
     max-width: 900px;
     margin: 0 auto;
@@ -23,15 +23,15 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Títulos */
+
 h1, h2, h3 {
-    color: #007BFF;
+    color: #1f9407;
     margin-bottom: 20px;
 }
 
-/* Botões */
+
 button, .btn {
-    background-color: #007BFF;
+    background-color: #1dbd08;
     color: white;
     padding: 10px 18px;
     border: none;
@@ -39,17 +39,19 @@ button, .btn {
     cursor: pointer;
     text-decoration: none;
     display: inline-block;
+     width: 150px; /* Novo tamanho do botão */
 }
 
 button:hover, .btn:hover {
-    background-color: #0056b3;
+    background-color: #2aa00d;
 }
 
-/* Formulários */
+
 form {
     display: flex;
     flex-direction: column;
     gap: 15px;
+    align-items: flex-start;
 }
 
 input, select, textarea {
@@ -60,11 +62,10 @@ input, select, textarea {
 }
 
 input:focus, textarea:focus, select:focus {
-    border-color: #007BFF;
+    border-color: #21a108;
     outline: none;
 }
 
-/* Tabelas */
 table {
     width: 100%;
     border-collapse: collapse;
@@ -78,7 +79,7 @@ th, td {
 }
 
 th {
-    background-color: #007BFF;
+    background-color: #1eb80a;
     color: white;
 }
 
@@ -86,7 +87,7 @@ tr:hover {
     background-color: #f1f1f1;
 }
 
-/* Mensagens */
+
 .alert {
     padding: 10px;
     border-radius: 5px;
@@ -103,9 +104,9 @@ tr:hover {
     color: #721c24;
 }
 
-/* Links */
+
 a {
-    color: #007BFF;
+    color: #13b62e;
     text-decoration: none;
 }
 
